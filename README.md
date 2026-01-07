@@ -101,11 +101,8 @@ To run:
 2. Select the macOS target
 3. Build and run
 
-## Future Improvements
+## Screenshot
 
-Potential enhancements include:
+Example view showing current system memory usage.
 
-- Menu bar integration
-- Optional historical charts
-- Configurable update intervals
-- Optional memory pressure indicators
+<img width="305" height="204" alt="image" src="https://github.com/user-attachments/assets/31fe8dc0-073c-4f8d-b19c-6286fa0ac97d" />
